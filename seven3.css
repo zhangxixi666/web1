@@ -1,0 +1,59 @@
+.Arialwords{
+	font-style: normal;
+	font-size: 12px;
+	font-family:Arial;
+	color: gray;
+	line-height:2em; 
+}
+		.gray{
+			color: gray
+		}
+		.gray01{
+			color: gray
+		}
+		a:hover{
+			text-decoration:underline 
+		}
+		a{
+			color: gray;
+			text-decoration:none
+		}
+		
+		.white{
+			font-weight:bolder;
+			font-size: 14px;
+			color: white
+		}
+		.white:hover{
+			color: #b9f605;
+			text-decoration:none
+		}
+		#ts{
+			color:#fdb306;
+			font-size: 14px;
+		}
+		#ts:hover{
+			color: #b9f605;
+			text-decoration:none
+		}
+		.biger{
+			font-size: 14px;
+			color: gray;
+			line-height: 2em
+		}
+		.gray01:hover{
+			color: #b9f605;
+			text-decoration:none
+		}
+		.title{
+			font-size: 20px;
+			color: #686868;
+			font-family: '微软雅黑';
+			font-weight: none
+		}
+		p{
+			text-indent: 2em
+		}
+		#blue{
+			color:#22a3d3;
+		}
