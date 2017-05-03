@@ -1,0 +1,45 @@
+body{
+			font-size: 12px;
+			color: gray;
+			font-family: Arial;
+			line-height: 2em;	 
+		}
+		.style{
+			color: #b9f605;
+			font-weight: bold;
+			font-size: 14px;
+		}
+		a{
+			color: #727272;
+			text-decoration: none;
+		}
+		a:hover{
+			text-decoration: underline;
+		}
+
+		.style a:hover{
+			color: #b9f605;
+			text-decoration: none;
+		}
+		.green{
+			color:white;
+		}
+		.orange{
+			color: #fdb306;
+		}
+		.shou{
+			color:#b9f605; 
+		}
+		ul{
+			list-style-type: none;
+		}
+		ul.a{
+			list-style-type: square;
+		}
+		ul.c{
+			list-style-image: url(https://github.com/taozho/course-web1/blob/master/Ch10%20background&list/lab8/code/image/left_cur.gif?raw=true);
+		}
+		ul span{
+			text-align: right;
+		}
+		

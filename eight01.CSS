@@ -1,0 +1,48 @@
+body{
+			font-size: 12px;
+			color: gray;
+			font-family: Arial;
+			line-height: 2em;
+				 
+		}
+		.style{
+			color: #b9f605;
+			font-weight: bold;
+			font-size: 14px;
+		}
+		a{
+			color: #727272;
+			text-decoration: none;
+		}
+		a:hover{
+			text-decoration: underline;
+		}
+
+		.style a:hover{
+			color: #b9f605;
+			text-decoration: none;
+		}
+		.style a{
+			color:white;
+		}
+		.style .orange{
+			color: #fdb306;
+		}
+		.style .shou{
+			color:#b9f605; 
+		}
+		.en{
+			font-family: 微软雅黑;
+			font-size:16px;
+			color: #65a7d0;
+			font-weight: bold;
+		}
+		ul{
+			list-style-type: none;
+		}
+		ul.h{
+			list-style-type: square;
+		}
+		.d{
+			background-color: #dfdfdf;
+		}
